@@ -22,10 +22,10 @@
 DESCRIPTION = 'Linux Software to print with LabelManager PnP from Dymo\n written in Python'
 DEV_CLASS       = 3
 DEV_VENDOR      = 0x0922
-DEV_PRODUCT     = 0x1002
+DEV_PRODUCT     = 0x1008
 #DEV_PRODUCT     = 0x1001
 DEV_NODE        = None
-DEV_NAME        = 'Dymo LabelManager PnP'
+DEV_NAME        = 'Dymo LabelManager Wireless PnP'
 #FONT_FILENAME  = '/usr/share/fonts/truetype/ttf-bitstream-vera/Vera.ttf'
 FONT_CONFIG = {'regular':'/usr/share/fonts/truetype/ubuntu-font-family/Ubuntu-R.ttf',     # regular font
                'bold':'/usr/share/fonts/truetype/ubuntu-font-family/Ubuntu-B.ttf',        # bold font
